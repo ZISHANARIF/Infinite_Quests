@@ -675,6 +675,68 @@ contact us page
     }
   }
 }
+@media (max-width: 1024px) {
+  .section-contact {
+    margin: 6rem auto; /* Reduce margin on tablets */
+  }
+
+  .contact-wrapper {
+    padding: 0 2rem; /* Adjust padding */
+  }
+
+  .contact-wrapper form {
+    max-width: 40rem; /* Smaller max-width for form */
+    gap: 2rem; /* Reduced gap between form elements */
+  }
+
+  .contact-wrapper form input,
+  .contact-wrapper form textarea {
+    font-size: 1.4rem; /* Smaller font size */
+    padding: 1rem 1.4rem; /* Adjust padding for smaller screens */
+  }
+}
+
+@media (max-width: 768px) {
+  .section-contact {
+    margin: 4rem auto; /* Further reduce margin on smaller screens */
+  }
+
+  .contact-wrapper {
+    padding: 0 1.2rem; /* Adjust padding */
+  }
+
+  .contact-wrapper form {
+    max-width: 35rem; /* Even smaller form width */
+    gap: 1.6rem; /* Further reduce gap between form elements */
+  }
+
+  .contact-wrapper form input,
+  .contact-wrapper form textarea {
+    font-size: 1.3rem; /* Adjust font size */
+    padding: 0.8rem 1.2rem; /* Adjust padding */
+  }
+}
+
+@media (max-width: 480px) {
+  .section-contact {
+    margin: 3rem auto; /* Minimal margin for mobile */
+  }
+
+  .contact-wrapper {
+    padding: 0 1rem; /* Adjust padding */
+  }
+
+  .contact-wrapper form {
+    max-width: 100%; /* Full width on mobile */
+    gap: 1.2rem; /* Adjust gap */
+  }
+
+  .contact-wrapper form input,
+  .contact-wrapper form textarea {
+    font-size: 1.2rem; /* Smaller font size */
+    padding: 0.8rem 1rem; /* Adjust padding */
+  }
+}
 
 /* ----------------
 contact us Page ends here 
