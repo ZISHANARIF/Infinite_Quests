@@ -30,10 +30,10 @@ export const SearchFilter = ({search, setSearch, filter, setFilter, countries, s
         </div>
 
         <div>
-            <button onClick={() => sortCountries("asc")}>Asc</button>
+            <button onClick={() => sortCountries("asc")}>⇩</button>
         </div>
         <div>
-            <button onClick={() => sortCountries("des")}>Des</button>
+            <button onClick={() => sortCountries("des")}>⇧</button>
         </div>
 
         <div>
