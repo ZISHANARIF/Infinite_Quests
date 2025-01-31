@@ -512,6 +512,60 @@ country Card
   text-transform: capitalize;
   color: rgba(255, 255, 255, 0.5);
 }
+@media screen and (max-width: 1024px) {
+  .section-searchFilter {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 2rem;
+  }
+
+  .section-searchFilter input {
+    width: 100%;
+    font-size: 1.4rem;
+  }
+
+  .section-searchFilter .select-section {
+    width: 100%;
+    font-size: 1.4rem;
+    padding: 0.6rem 2rem;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .section-searchFilter {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1.5rem;
+  }
+
+  .section-searchFilter input {
+    font-size: 1.3rem;
+    padding: 0.6rem 1.6rem;
+  }
+
+  .section-searchFilter .select-section {
+    font-size: 1.3rem;
+    padding: 0.5rem 1.6rem;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .section-searchFilter {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1rem;
+  }
+
+  .section-searchFilter input {
+    font-size: 1.2rem;
+    padding: 0.6rem 1.2rem;
+  }
+
+  .section-searchFilter .select-section {
+    font-size: 1.2rem;
+    padding: 0.4rem 1.2rem;
+  }
+}
 
 /* ------------------ 
 contact us page 
