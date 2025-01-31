@@ -1,0 +1,170 @@
+[
+    {
+        "id": 1,
+        "Name": "Stars",
+        "types": "Main Sequence Star",
+        "Example": "Sun",
+        "image": "Images/stars.jpg"
+    },
+    {
+        "id": 2,
+        "Name": "Mercury",
+        "types": "Terrestrial Planet",
+        "Example": "Mercury",
+        "image": "Images/mercury.avif"
+    },
+    {
+        "id": 3,
+        "Name": "Venus",
+        "types": "Terrestrial Planet",
+        "Example": "Venus",
+        "image": "Images/venus.jpg"
+    },
+    {
+        "id": 4,
+        "Name": "Earth",
+        "types": "Terrestrial Planet",
+        "Example": "Earth",
+        "image": "Images/Earth.webp"
+    },
+    {
+        "id": 5,
+        "Name": "Mars",
+        "types": "Terrestrial Planet",
+        "Example": "Mars",
+        "image": "Images/mars.jpg"
+    },
+    {
+        "id": 6,
+        "Name": "Jupiter",
+        "types": "Gas Giant",
+        "Example": "Jupiter",
+        "image": "Images/jupiter.webp"
+    },
+    {
+        "id": 7,
+        "Name": "Saturn",
+        "types": "Gas Giant",
+        "Example": "Saturn",
+        "image": "Images/Saturn.jpg"
+    },
+    {
+        "id": 8,
+        "Name": "Uranus",
+        "types": "Ice Giant",
+        "Example": "Uranus",
+        "image": "Images/Uranus.jpg"
+    },
+    {
+        "id": 9,
+        "Name": "Neptune",
+        "types": "Ice Giant",
+        "Example": "Neptune",
+        "image": "Images/neptun.jpg"
+    },
+    {
+        "id": 10,
+        "Name": "Earth's Moon",
+        "types": "Natural Satellite",
+        "Example": "Moon",
+        "image": "Images/moon.webp"
+    },
+    {
+        "id": 11,
+        "Name": "Jupiter’s Moon",
+        "types": "Natural Satellite",
+        "Example": "Ganymede",
+        "image": "Images/jupiterM.jpg"
+    },
+    {
+        "id": 12,
+        "Name": "Spiral Galaxy",
+        "types": "Galaxy",
+        "Example": "Milky Way",
+        "image": "Images/Spiral.jpg"
+    },
+    {
+        "id": 13,
+        "Name": "Elliptical Galaxy",
+        "types": "Galaxy",
+        "Example": "M87",
+        "image": "Images/Elliptical.jpg"
+    },
+    {
+        "id": 14,
+        "Name": "Irregular Galaxy",
+        "types": "Galaxy",
+        "Example": "Sculptor Dwarf",
+        "image": "Images/irregular.jpg"
+    },
+    {
+        "id": 15,
+        "Name": "Stellar-Mass",
+        "types": "Black Hole",
+        "Example": "Cygnus X-1",
+        "image": "Images/stellar.jpg"
+    },
+    {
+        "id": 16,
+        "Name": "Supermassive",
+        "types": "Black Hole",
+        "Example": "Sagittarius A*",
+        "image": "Images/supermassive.jpg"
+    },
+    {
+        "id": 17,
+        "Name": "Intermediate-Mass",
+        "types": "Black Hole",
+        "Example": "HLX-1",
+        "image": "Images/Intermediate.jpg"
+    },
+    {
+        "id": 18,
+        "Name": "Primordial",
+        "types": "Black Hole",
+        "Example": "Hypothetical ",
+        "image": "Images/Primordial.jpg"
+    },
+    {
+        "id": 19,
+        "Name": "Emission Nebulae",
+        "types": "Nebula",
+        "Example": "Orion Nebula",
+        "image": "Images/Emission.jpg"
+    },
+    {
+        "id": 20,
+        "Name": "Reflection Nebulae",
+        "types": "Nebula",
+        "Example": "Pleiades Nebula",
+        "image": "Images/Reflection.jpg"
+    },
+    {
+        "id": 21,
+        "Name": "Dark Nebulae",
+        "types": "Nebula",
+        "Example": "Horsehead",
+        "image": "Images/Dark.jpg"
+    },
+    {
+        "id": 22,
+        "Name": "Planetary Nebulae",
+        "types": "Nebula",
+        "Example": "Ring Nebula",
+        "image": "Images/Planetary.jpg"
+    },
+    {
+        "id": 24,
+        "Name": "Dark Matter",
+        "types": "Matter",
+        "Example": "Galaxy rotation",
+        "image": "Images/dark_matter.jpg"
+    },
+    {
+        "id": 25,
+        "Name": "Dark Energy",
+        "types": "Energy",
+        "Example": "Cosmic growth",
+        "image": "Images/dark_energy.jpg"
+    }
+]

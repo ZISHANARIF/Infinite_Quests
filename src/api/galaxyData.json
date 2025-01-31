@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "AstronomyName": "Stars",
+        "Size": "Varies (e.g., Sun: 1.39 million km in diameter)",
+        "Facts": "Stars are massive celestial bodies composed mostly of hydrogen and helium. They generate light and heat through nuclear fusion, primarily converting hydrogen into helium. This process takes place in the star's core and is responsible for the star's energy.",
+        "Types": ["Main Sequence", "Red Giant", "White Dwarf", "Neutron Star", "Black Hole"],
+        "Examples": ["Sun", "Sirius"],
+        "Formation": "Stars form from dense regions of gas in nebulae, going through stages such as protostar, main sequence, and eventually ending their life cycle as either white dwarfs, neutron stars, or black holes depending on their mass."
+    },
+    {
+        "id": 2,
+        "AstronomyName": "Planets",
+        "Size": "Varies (e.g., Earth: 12,742 km diameter, Jupiter: 139,820 km diameter)",
+        "Facts": "Planets are large celestial bodies that orbit stars. They do not produce their own light but reflect light from their parent star. Planets can be rocky (terrestrial) or made of gas (gas giants). Their atmospheres and surface features vary greatly depending on their composition and distance from their star.",
+        "Types": ["Terrestrial (Rocky)", "Gas Giants", "Ice Giants"],
+        "Examples": ["Moon(Earth)", "Mars"],
+        "Formation": "Planets form in a star's protoplanetary disk, where dust and gas collide and combine to form planetary bodies. The planet's type (rocky or gaseous) is largely determined by its distance from the star during formation."
+    },
+    {
+        "id": 3,
+        "AstronomyName": "Moons",
+        "Size": "Varies (e.g., Earth's Moon: 3,474 km in diameter, Ganymede: 5,268 km in diameter)",
+        "Facts": "Moons are natural satellites that orbit planets and some dwarf planets. They can be rocky, icy, or have volcanic activity. Moons play crucial roles in shaping planetary environments and can affect tides and orbital stability.",
+        "Types": ["Rocky Moons", "Ice Moons", "Volcanic Moons"],
+        "Examples": ["Moon", "Europa(Jupiter)"],
+        "Formation": "Moons can form in several ways, including through accretion (where a body forms from material orbiting the planet), by being captured by a planet's gravity, or from impacts that break apart other celestial objects."
+    },
+    {
+        "id": 4,
+        "AstronomyName": "Galaxies",
+        "Size": "Millions to trillions of stars per galaxy",
+        "Facts": "Galaxies are vast collections of stars, gas, dust, and dark matter held together by gravity. They range in size from small dwarf galaxies to massive galaxies with hundreds of billions of stars. Galaxies are the fundamental units of the universe, with each one containing a variety of star systems, planetary systems, and other cosmic objects.",
+        "Types": ["Spiral", "Elliptical", "Irregular"],
+        "Examples": ["Milky Way", "Andromeda","NGC 1300"],
+        "Formation": "Galaxies formed after the Big Bang from the clumping together of gas, dust, and dark matter. Over billions of years, these clusters of material coalesced into the diverse structures we observe today."
+    },
+    {
+        "id": 5,
+        "AstronomyName": "Black Holes",
+        "Size": "Varies (e.g., Stellar-mass: ~10-100 times the Sun’s mass, Supermassive: millions to billions of solar masses)",
+        "Facts": "Black holes are regions of space where the gravitational pull is so strong that nothing, not even light, can escape. They are formed from the collapse of massive stars or from the merging of smaller black holes. Supermassive black holes, with masses millions to billions of times that of the Sun, are thought to exist at the centers of most galaxies.",
+        "Types": ["Stellar-mass", "Intermediate-mass", "Primordial"],
+        "Examples": ["M87* (first imaged)"],
+        "Formation": "Black holes form when massive stars undergo supernova explosions, or when large amounts of mass collapse into a very small volume, creating an intense gravitational field."
+    },
+    {
+        "id": 6,
+        "AstronomyName": "Nebulae",
+        "Size": "Varies (e.g., Orion Nebula: ~24 light-years across)",
+        "Facts": "Nebulae are large clouds of gas and dust in space. Some nebulae are stellar nurseries, where new stars are born from the dense material within. Others are remnants of dead stars, such as planetary nebulae, which mark the end stages of a star’s life.",
+        "Types": ["Emission Nebula", "Reflection Nebula", "Dark Nebula", "Planetary Nebula"],
+        "Examples": ["Orion Nebula", "Crab Nebula"],
+        "Formation": "Nebulae can form from the gas and dust left behind after a star dies, or as new stars form in the dense regions of gas clouds, lighting up the surrounding nebulae with their radiation."
+    }
+]

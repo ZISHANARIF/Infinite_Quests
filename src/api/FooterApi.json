@@ -1,0 +1,17 @@
+[
+    {
+      "icon": "MdPlace",
+      "title": "Find Us",
+      "details": "Delhi, New Delhi"
+    },
+    {
+      "icon": "IoCallSharp",
+      "title": "Call Us",
+      "details": "8115332965"
+    },
+    {
+      "icon": "TbMailPlus",
+      "title": "Mail Us",
+      "details": "zishanarif912@gmail.com"
+    }
+  ]

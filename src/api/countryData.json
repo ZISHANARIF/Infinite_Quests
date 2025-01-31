@@ -1,0 +1,45 @@
+[
+  
+  {
+    "id": 1,
+    "continentName": "Asia",
+    "majorCity": "Tokyo",
+    "population": 4670000000,
+    "interestingFact": "Asia is the largest and most populous continent, covering about 30% of the Earth's land area."
+  },
+  {
+    "id": 2,
+    "continentName": "Africa",
+    "majorCity": "Lagos",
+    "population": 1400000000,
+    "interestingFact": "Africa is home to the world's longest river, the Nile, and the largest desert, the Sahara."
+  },
+  {
+    "id": 3,
+    "continentName": "Australia",
+    "majorCity": "Sydney",
+    "population": 43000000,
+    "interestingFact": "Australia is the only continent that is also a country and is home to unique wildlife like kangaroos and koalas."
+  },
+  {
+    "id": 4,
+    "continentName": "South America",
+    "majorCity": "São Paulo",
+    "population": 430000000,
+    "interestingFact": "The Amazon Rainforest in South America produces about 20% of the world's oxygen supply."
+  },
+  {
+    "id": 5,
+    "continentName": "Europe",
+    "majorCity": "Moscow",
+    "population": 750000000,
+    "interestingFact": "Europe is home to some of the world's oldest civilizations and historical landmarks Eiffel Tower."
+  },
+  {
+    "id": 6,
+    "continentName": "Eurasia",
+    "majorCity": "Moscow",
+    "population": 4700000000,
+    "interestingFact": "Eurasia is a supercontinent that combines Europe and Asia, covering 36% of the Earth's."
+  }
+]

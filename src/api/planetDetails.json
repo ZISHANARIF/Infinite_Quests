@@ -1,0 +1,242 @@
+[
+    {
+        "id": 1,
+        "Name": "Stars",
+        "imagee": "Images/stars.jpg",
+        "DiscoveryYear": "N/A",
+        "OrbitPeriod": "N/A",
+        "Diameter": "N/A",
+        "DetailsExplaination": "Stars are like massive, glowing balls of gas, mostly hydrogen, that generate energy through a process called nuclear fusion. At their core, hydrogen atoms collide and fuse together, releasing an immense amount of energy in the form of light and heat. This energy is what makes stars shine so brightly. Over time, as stars burn through their fuel, they change in size, color, and brightness. In the final stages of their lives, some stars explode in a brilliant event called a supernova, leaving behind remnants like black holes or neutron stars. Understanding stars helps us grasp the lifecycle of celestial bodies and the energy that powers our Universe.",
+        "Example": "The Sun, Sirius, Betelgeuse, Proxima Centauri"
+    },
+    {
+        "id": 2,
+        "Name": "Mercury",
+        "imagee": "Images/mercury.avif",
+        "DiscoveryYear": "1651",
+        "OrbitPeriod": "87.97 days",
+        "Diameter": "4,880 km",
+        "DetailsExplaination": "Mercury, the closest planet to the Sun, is a small, rocky planet with extreme temperatures. Because it has almost no atmosphere, it can't trap heat, so one side gets extremely hot while the other side freezes. A day on Mercury lasts longer than its year, which means it takes more time to spin once on its axis than it does to orbit the Sun. Its surface is full of craters and resembles our Moon, making it a challenging place for any form of life. Studying Mercury gives us clues about the formation of planets in our Solar System, especially those closest to the Sun.",
+        "Example": "Messenger spacecraft studied Mercury, Caloris Basin is a large impact crater"
+    },
+    {
+        "id": 3,
+        "Name": "Venus",
+        "imagee": "Images/venus.jpg",
+        "DiscoveryYear": "1610",
+        "OrbitPeriod": "225 days",
+        "Diameter": "12,104 km",
+        "DetailsExplaination": "Venus is often called Earth's \"sister planet\" because of its similar size and structure. However, it’s a world of extremes. The atmosphere of Venus is thick with carbon dioxide, trapping heat and creating a runaway greenhouse effect, making Venus the hottest planet in the Solar System, even hotter than Mercury. Its surface is covered with volcanoes and vast plains. Venus rotates in the opposite direction to most planets, which is known as retrograde rotation. Understanding Venus helps scientists study climate change, planetary atmospheres, and the potential for life on other planets.",
+        "Example": "Venus has thick sulfuric acid clouds, missions include Magellan and Akatsuki"
+    },
+    {
+        "id": 4,
+        "Name": "Earth",
+        "imagee": "Images/Earth.webp",
+        "DiscoveryYear": "Ancient",
+        "OrbitPeriod": "365.25 days",
+        "Diameter": "12,742 km",
+        "DetailsExplaination": "Earth is the only planet we know that supports life. It has the perfect balance of atmosphere, water, and temperature for living organisms to thrive. Earth's atmosphere is made up of oxygen, nitrogen, and trace gases, which protect us from harmful radiation and help maintain a climate that’s just right for life. The planet is divided into continents and oceans, and its surface is constantly changing due to tectonic activity. Studying Earth is essential for understanding how life develops, the impact of human activities, and how other planets might support life too.",
+        "Example": "Contains vast oceans, continents, and supports complex ecosystems"
+    },
+    {
+        "id": 5,
+        "Name": "Mars",
+        "imagee": "Images/mars.jpg",
+        "DiscoveryYear": "1610",
+        "OrbitPeriod": "687 days",
+        "Diameter": "6,779 km",
+        "DetailsExplaination": "Mars, known as the \"Red Planet,\" is the fourth planet from the Sun. Its reddish color comes from iron oxide, or rust, on its surface. Mars has the tallest volcano and the deepest canyon in the Solar System, which suggests it once had more geological activity than it does now. Scientists are fascinated by Mars because there are signs that liquid water may have once existed on its surface, and there might be underground water still today. Mars is considered a prime candidate for future human exploration and colonization, making it a focal point in our search for life beyond Earth.",
+        "Example": "Olympus Mons (largest volcano), Perseverance and Curiosity rovers"
+    },
+    {
+        "id": 6,
+        "Name": "Jupiter",
+        "imagee": "Images/jupiter.webp",
+        "DiscoveryYear": "1610",
+        "OrbitPeriod": "11.86 years",
+        "Diameter": "139,820 km",
+        "DetailsExplaination": "Jupiter, the largest planet in the Solar System, is a gas giant made mostly of hydrogen and helium. It’s known for its massive storm, the Great Red Spot, which has been raging for centuries. Jupiter has a powerful magnetic field and dozens of moons, including Ganymede, the largest moon in the Solar System. Jupiter’s immense size and strong gravity affect the entire Solar System, helping to protect Earth from potential asteroid impacts by drawing some of them toward it. Studying Jupiter helps us understand the formation of gas giants and the influence of large planets on smaller bodies in a solar system.",
+        "Example": "Great Red Spot, Ganymede (largest moon), Juno mission"
+    },
+    {
+        "id": 7,
+        "Name": "Saturn",
+        "imagee": "Images/Saturn.jpg",
+        "DiscoveryYear": "1610",
+        "OrbitPeriod": "29.46 years",
+        "Diameter": "116,460 km",
+        "DetailsExplaination": "Saturn is best known for its spectacular ring system, made up of ice and rock particles. Like Jupiter, Saturn is a gas giant, but it’s less dense, meaning it could float in water if there were a body of water big enough. Saturn has many moons, with Titan being the largest. Titan has an atmosphere and liquid lakes made of methane, which intrigues scientists about the possibility of life in unusual environments. Saturn’s rings and its moons provide important insights into the dynamics of planetary systems and how moons form around gas giants.",
+        "Example": "Cassini-Huygens mission, Enceladus has subsurface water"
+    },
+    {
+        "id": 8,
+        "Name": "Uranus",
+        "imagee": "Images/Uranus.jpg",
+        "DiscoveryYear": "1781",
+        "OrbitPeriod": "84 years",
+        "Diameter": "50,724 km",
+        "DetailsExplaination": "Uranus is a unique planet because it rotates on its side, unlike any other planet in our Solar System. This sideways rotation gives it extreme seasons, with each pole experiencing long periods of daylight or darkness. It’s a gas giant, composed mostly of hydrogen, helium, and methane, which gives it its blue-green color. Uranus has faint rings and numerous moons. Its odd rotation and distant location make it one of the least studied planets, but exploring Uranus could tell us more about the formation of the outer planets and the behavior of ice giants.",
+        "Example": "Voyager 2 mission, contains faint ring system"
+    },
+    {
+        "id": 9,
+        "Name": "Neptune",
+        "imagee": "Images/neptun.jpg",
+        "DiscoveryYear": "1846",
+        "OrbitPeriod": "165 years",
+        "Diameter": "49,244 km",
+        "DetailsExplaination": "Neptune is the furthest planet from the Sun and is known for its vibrant blue color, which is caused by the methane in its atmosphere. It has the strongest winds in the Solar System, with storm systems like the Great Dark Spot, which is similar to Jupiter’s Red Spot. Neptune has a faint ring system and several moons, including Triton, which has geysers shooting water and nitrogen into space. Studying Neptune helps us learn about the outermost parts of our Solar System and the conditions of distant, icy planets that could be similar to others beyond our system.",
+        "Example": "Triton is its largest moon, Voyager 2 flyby"
+    },
+    {
+        "id": 10,
+        "Name": "Earth's Moon",
+        "imagee": "Images/moon.webp",
+        "DiscoveryYear": "Ancient",
+        "OrbitPeriod": "27.3 days",
+        "Diameter": "3,474.8 km",
+        "DetailsExplaination": "Earth’s Moon is our closest celestial neighbor, and it plays a crucial role in maintaining life on Earth. It’s the fifth largest moon in the Solar System and is about a quarter the size of Earth. The Moon’s gravity influences Earth’s tides, helping to regulate our oceans and create a stable environment. Its surface is covered with craters, plains, and dark volcanic rock known as maria. The Moon has no atmosphere, so temperatures swing drastically between day and night. Its phases – from new moon to full moon – are a result of the changing position of the Moon in relation to the Earth and Sun. The Moon’s formation, likely from a collision between Earth and a Mars-sized body, gives us insights into the early days of the Solar System. The Moon is also key to space exploration; it has been a stepping stone for human missions to the outer Solar System and is a target for future colonization due to its proximity and resources.",
+        "Example": "Apollo 11 landed in 1969, features like Mare Tranquillitatis"
+    },
+    {
+        "id": 11,
+        "Name": "Jupiter’s Moon",
+        "imagee": "Images/jupiterM.jpg",
+        "DiscoveryYear": "1610",
+        "OrbitPeriod": "Various",
+        "Diameter": "Various",
+        "DetailsExplaination": "Jupiter has over 80 moons, and among them, four stand out as the most fascinating—Io, Europa, Ganymede, and Callisto, collectively known as the Galilean moons. These moons have diverse environments and characteristics that make them prime targets for study. Io, the innermost moon, is the most volcanically active body in the Solar System, with hundreds of volcanoes, some of which erupt molten sulfur. This extreme activity is due to gravitational interactions with Jupiter and other moons, causing constant tidal heating. Europa, the second moon, is covered by an icy shell, beneath which scientists believe there may be a subsurface ocean. This has led to speculation that Europa might harbor conditions suitable for life. Ganymede, the largest moon in the Solar System, is even larger than the planet Mercury. It has its own magnetic field and may also have an underground ocean. Callisto, the farthest of the Galilean moons, has a heavily cratered surface and is considered the most \"geologically dead\" of the four. These moons, particularly Europa, are some of the most intriguing places in the search for life beyond Earth, and exploring them helps scientists learn about the conditions that might support life in other parts of the Universe.",
+        "Example": "Europa has a subsurface ocean, Io has active volcanoes"
+    },
+    {
+        "id": 12,
+        "Name": "Spiral Galaxy",
+        "imagee": "Images/Spiral.jpg",
+        "DiscoveryYear": "Unknown",
+        "OrbitPeriod": "N/A",
+        "Diameter": "N/A",
+        "DetailsExplaination": "Imagine a giant, spinning pinwheel in space. That’s what a spiral galaxy looks like! These galaxies are characterized by their distinct, winding arms that spiral outward from a dense, bright center, known as the galactic nucleus. The Milky Way, the galaxy we live in, is a spiral galaxy. These arms are filled with stars, gas, and dust, and the center has a supermassive black hole. The spiral structure forms as the galaxy rotates, with stars and gas moving in and out of the arms in a dynamic way. Spiral galaxies are often rich in new star formation, especially in the spiral arms, where dense clouds of gas and dust create new stars. Studying spiral galaxies helps us understand how galaxies evolve, how stars form, and how the Universe’s structure develops over time.",
+        "Example": "Milky Way, Andromeda Galaxy (M31)"
+    },
+    {
+        "id": 13,
+        "Name": "Elliptical Galaxy",
+        "imagee": "Images/Elliptical.jpg",
+        "DiscoveryYear": "Unknown",
+        "OrbitPeriod": "N/A",
+        "Diameter": "N/A",
+        "DetailsExplaination": "If a spiral galaxy is a spinning pinwheel, an elliptical galaxy is more like a smooth, stretched-out basketball or an oval-shaped blob. These galaxies don’t have the spiral arms seen in other galaxies and instead appear more rounded or elongated. They’re made mostly of older stars, with little to no new star formation happening. This is because elliptical galaxies have less gas and dust, which are needed for star creation. Their stars are scattered throughout in a more uniform way. Some elliptical galaxies are quite massive and can hold millions or even billions of stars, while others are much smaller. They are often found in galaxy clusters and can be the result of two spiral galaxies merging. By studying elliptical galaxies, astronomers learn about the end stages of galaxy evolution and how galaxies merge over time.",
+        "Example": "M87, Messier 49"
+    },
+    {
+        "id": 14,
+        "Name": "Irregular Galaxy",
+        "imagee": "Images/irregular.jpg",
+        "DiscoveryYear": "Unknown",
+        "OrbitPeriod": "N/A",
+        "Diameter": "N/A",
+        "DetailsExplaination": "Irregular galaxies are like the wild, free-spirited cousins of the other galaxies. They don’t follow the smooth shapes of spiral or elliptical galaxies, often appearing chaotic and lopsided. These galaxies lack a defined structure, which makes them seem \"irregular.\" They can have lots of star formation and may contain a lot of gas and dust, but their disorganized shape is often the result of gravitational interactions with nearby galaxies. Some irregular galaxies may have been spiral or elliptical galaxies in the past but have been disrupted by collisions or close encounters with other galaxies. Studying these galaxies provides insights into how galaxies interact, merge, and change, and can also give clues about the conditions that lead to star formation in the Universe.",
+        "Example": "Large Magellanic Cloud, Small Magellanic Cloud"
+    },
+    {
+        "id": 15,
+        "Name": "Stellar-Mass Black Holes",
+        "imagee": "Images/stellar.jpg",
+        "DiscoveryYear": "1971",
+        "OrbitPeriod": "N/A",
+        "Diameter": "N/A",
+        "DetailsExplaination": "Stellar-mass black holes are born from the remnants of massive stars that have exhausted their fuel and collapsed under their own gravity. When a star much larger than our Sun runs out of fuel, it can no longer support itself against gravity, and the core implodes, creating a black hole. These black holes typically have a mass ranging from about 3 to 10 times that of the Sun. Though they are small compared to other types of black holes, their gravitational pull is incredibly strong, drawing in nearby matter. Stellar-mass black holes can be found in binary systems, where they might pull material from a companion star, creating an accretion disk that shines brightly as it falls into the black hole. These black holes are key to understanding the lifecycle of stars and the violent events that occur at the end of their existence.",
+        "Example": "Cygnus X-1, V404 Cygni"
+    },
+    {
+        "id": 16,
+        "Name": "Supermassive Black Holes",
+        "imagee": "Images/supermassive.jpg",
+        "DiscoveryYear": "Unknown",
+        "OrbitPeriod": "N/A",
+        "Diameter": "N/A",
+        "DetailsExplaination": "Supermassive black holes are giant black holes found at the centers of most large galaxies, including our own Milky Way. They can have millions to billions of times the mass of the Sun. How these colossal black holes form is still a mystery, but they are thought to grow by merging with other black holes, pulling in gas and dust, and consuming stars. The supermassive black hole in the center of the Milky Way, known as Sagittarius A*, is about 4 million times the mass of the Sun. These black holes influence the galaxy’s formation and evolution, controlling the dynamics of stars and gas around them. They can also cause high-energy emissions like X-rays as material falls into them. Understanding supermassive black holes is essential for learning how galaxies grow and how the Universe’s large-scale structures form.",
+        "Example": "Sagittarius A*, M87*"
+    },
+    {
+        "id": 17,
+        "Name": "Intermediate-Mass Black Holes",
+        "imagee": "Images/Intermediate.jpg",
+        "DiscoveryYear": "Unknown",
+        "OrbitPeriod": "N/A",
+        "Diameter": "N/A",
+        "DetailsExplaination": "Intermediate-mass black holes are a mysterious middle ground between stellar-mass and supermassive black holes. Their mass ranges from 100 to 1000 times the mass of the Sun. While they are too large to form from a single star’s collapse, they are smaller than the supermassive black holes at the centers of galaxies. These black holes might form from the merging of smaller black holes or by the collapse of dense star clusters. Finding these black holes is challenging because they don’t have as obvious a signature as stellar-mass black holes or supermassive ones. However, their discovery would help us understand how black holes grow and the role they play in the formation of galaxies.",
+        "Example": "HLX-1, NGC 1313 X-1"
+    },
+    {
+        "id": 18,
+        "Name": "Primordial Black Holes",
+        "imagee": "Images/Primordial.jpg",
+        "DiscoveryYear": "Unknown",
+        "OrbitPeriod": "N/A",
+        "Diameter": "N/A",
+        "DetailsExplaination": "Primordial black holes are a theoretical type of black hole that could have formed in the early Universe, shortly after the Big Bang. Unlike other black holes, which form from the collapse of stars, primordial black holes would have formed from dense regions of matter during the Universe's infancy. They could have a wide range of sizes, from very small (smaller than an atom) to larger ones. Though no primordial black holes have been found, they are an interesting possibility in the study of dark matter. If they do exist, they could be an essential clue to understanding the early Universe and the mysterious nature of dark matter.",
+        "Example": "No confirmed examples yet, though their study is ongoing."
+    },
+    {
+        "id": 19,
+        "Name": "Emission Nebulae",
+        "imagee": "Images/Emission.jpg",
+        "DiscoveryYear": "Unknown",
+        "OrbitPeriod": "N/A",
+        "Diameter": "N/A",
+        "DetailsExplaination": "Emission nebulae are glowing clouds of gas, mostly hydrogen, that shine with a vivid, often red or pink, color. This glowing light comes from the gas being energized by the ultraviolet radiation emitted by nearby young, hot stars. These stars ionize the gas, causing it to emit light at specific wavelengths. One of the most famous examples is the Orion Nebula, which is a stellar nursery, where new stars are born. Emission nebulae are crucial for understanding how stars form and how the energy from stars influences the surrounding environment.",
+        "Example": "Orion Nebula (M42), Eagle Nebula"
+    },
+    {
+        "id": 20,
+        "Name": "Reflection Nebulae",
+        "imagee": "Images/Reflection.jpg",
+        "DiscoveryYear": "Unknown",
+        "OrbitPeriod": "N/A",
+        "Diameter": "N/A",
+        "DetailsExplaination": "Reflection nebulae don’t emit their own light like emission nebulae; instead, they shine by reflecting the light of nearby stars. These nebulae are made of fine dust particles, which scatter and reflect the starlight, giving the nebula a bluish glow. The blue color comes from the way shorter blue wavelengths of light scatter more easily than longer red wavelengths. Reflection nebulae are often found near young, bright stars, and they help astronomers study the composition and distribution of interstellar dust and gas.",
+        "Example": "Pleiades Nebula, Witch Head Nebula"
+    },
+    {
+        "id": 21,
+        "Name": "Dark Nebulae",
+        "imagee": "Images/Dark.jpg",
+        "DiscoveryYear": "Unknown",
+        "OrbitPeriod": "N/A",
+        "Diameter": "N/A",
+        "DetailsExplaination": "Dark nebulae are dense clouds of gas and dust that block the light of stars and other objects behind them. These nebulae are often seen as dark patches against the bright backdrop of stars or other nebulae. While they are not visible in the same way as emission or reflection nebulae, dark nebulae play an important role in the formation of new stars. The gas and dust in these nebulae collapse under gravity, forming new stars and planetary systems. An example is the Horsehead Nebula, which is a dark nebula that stands out against a background of glowing gas. Understanding dark nebulae helps us learn about the birthplaces of stars and planetary systems.",
+        "Example": "Horsehead Nebula, Barnard 68"
+    },
+    {
+        "id": 22,
+        "Name": "Supernovae",
+        "imagee": "Images/Planetary.jpg",
+        "DiscoveryYear": "1604",
+        "OrbitPeriod": "N/A",
+        "Diameter": "N/A",
+        "DetailsExplaination": "A supernova is a powerful and luminous stellar explosion that occurs at the end of a massive star's life cycle. When a star that’s much larger than the Sun reaches the end of its life, it explodes, creating an incredibly bright burst of energy that can outshine an entire galaxy for a short time. The explosion sends shockwaves outward, heating up and spreading the star's outer layers into space. This creates a nebula of gas and dust, which is what we call a supernova remnant. These remnants can expand for thousands of years, and their study provides insights into the life cycle of massive stars, the creation of elements like iron and oxygen, and the role supernovae play in enriching the interstellar medium. The Crab Nebula is a famous example of a supernova remnant.",
+        "Example": "SN 1987A, Tycho's Supernova"
+    },
+    {
+        "id": 23,
+        "Name": "Quasars",
+        "imagee": "Images/dark_matter.jpg",
+        "DiscoveryYear": "1963",
+        "OrbitPeriod": "N/A",
+        "Diameter": "N/A",
+        "DetailsExplaination": "Quasars are extremely energetic and distant objects, believed to be powered by supermassive black holes at the centers of galaxies. The energy emitted by quasars is so intense that it outshines the rest of the galaxy combined. They are one of the most distant and powerful objects we can observe in the Universe, providing important insights into the early stages of galaxy and black hole formation.",
+        "Example": "3C 273, PKS 0048-097"
+    },
+    {
+        "id": 24,
+        "Name": "Pulsars",
+        "imagee": "Images/dark_energy.jpg",
+        "DiscoveryYear": "1967",
+        "OrbitPeriod": "N/A",
+        "Diameter": "N/A",
+        "DetailsExplaination": "Pulsars are rapidly rotating neutron stars that emit beams of electromagnetic radiation. These beams sweep across space like a lighthouse, creating a rhythmic pulse that can be observed from Earth. The rapid rotation of pulsars results from the conservation of angular momentum when a massive star collapses into a neutron star. Pulsars are valuable tools for studying the properties of neutron stars and the behavior of matter under extreme conditions.",
+        "Example": "Crab Pulsar, PSR B1937+21"
+    }
+]
