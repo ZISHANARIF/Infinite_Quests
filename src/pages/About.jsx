@@ -20,9 +20,9 @@ export const About = () => {
 
                 <p className='card-title'>{Name}</p>
 
-                <p><span className='card-description'>TYPES: </span>{types}</p>
+                <p><span className='card-description'>TYPES: </span>{types.slice(0, 16)}</p>
 
-                <p><span className='card-description'>EXAMPLE: </span>{Example}</p>
+                <p><span className='card-description'>EXAMPLE: </span>{Example.slice(0, 16)}</p>
                 
                 <NavLink to={`/about/${id}`}>
                   <button>More Details <FaArrowRight /></button>
