@@ -10,6 +10,12 @@
 :root {
   --bg-color: #202020;
 }
+pre {
+  white-space: pre-wrap; /* Allows text to wrap */
+  word-wrap: break-word; /* Breaks long words if necessary */
+  overflow-x: auto; /* Adds horizontal scrollbar only if needed */
+  max-width: 100%; /* Ensures the content does not overflow its container */
+}
 
 html {
   font-size: 62.5%;
@@ -325,14 +331,15 @@ nav ul {
   display: flex;
   gap: 2.4rem;
   align-items: center;
+  justify-content: center; /* Ensure proper alignment */
 
   & .icon {
     color: #3a4ed5;
     font-size: 3.6rem;
+  }
 
-    & .icon:nth-child(2) {
-      rotate: 90deg;
-    }
+  & .icon:nth-child(2) {
+    rotate: 90deg;
   }
 }
 
@@ -340,6 +347,7 @@ nav ul {
   display: flex;
   flex-direction: column;
   gap: 0.6rem;
+  text-align: center; /* Center align text */
 
   & p {
     font-size: 1.5rem;
@@ -356,7 +364,8 @@ nav ul {
 .footer-menu {
   & ul {
     display: flex;
-    justify-content: end;
+    justify-content: center; /* Center menu items */
+    flex-wrap: wrap; /* Allow wrapping */
   }
 }
 
@@ -364,6 +373,7 @@ ul {
   margin: 0px;
   padding: 0px;
 }
+
 .footer-section {
   background: #151414;
   position: relative;
@@ -372,86 +382,104 @@ ul {
 .copyright-area {
   background: #202020;
   padding: 25px 0;
+  text-align: center; /* Center align copyright text */
 }
+
 .copyright-text p {
   margin: 0;
   font-size: 14px;
   color: #878787;
 }
+
 .copyright-text p a {
   color: #3a4ed5;
   margin-left: 0.6rem;
 }
+
 .footer-menu li {
   display: inline-block;
   margin-left: 20px;
 }
+
 .footer-menu li:hover a {
   color: #3a4ed5;
 }
+
 .footer-menu li a {
   font-size: 14px;
   color: #878787;
 }
+
+/* Responsive Fixes */
 @media (max-width: 1024px) {
   .footer-contact {
-    flex-direction: column; /* Stack items vertically on medium screens */
-    height: auto; /* Let content adjust height */
-    gap: 1rem; /* Reduce gap between elements */
+    flex-direction: column; /* Stack items vertically */
+    align-items: center;
+    text-align: center;
+    gap: 1.5rem;
   }
 
   .footer-contact .icon {
-    font-size: 2.8rem; /* Smaller icons on tablets */
+    font-size: 3rem;
   }
 
-  .footer-contact-text p {
-    font-size: 1.3rem; /* Adjust text size */
+  .footer-contact-text {
+    align-items: center;
   }
 
   .footer-menu ul {
-    justify-content: center; /* Center items on tablets */
-    flex-wrap: wrap; /* Allow wrapping of menu items */
+    justify-content: center; /* Ensure menu stays centered */
   }
 
   .footer-menu li {
-    margin-left: 10px; /* Reduce space between menu items */
-    margin-bottom: 10px; /* Add space between items if they wrap */
+    margin-left: 10px;
+    margin-bottom: 5px;
+  }
+
+  .copyright-text {
+    text-align: center; /* Ensure copyright text stays centered */
   }
 }
 
 @media (max-width: 768px) {
   .footer-contact {
-    height: auto;
     gap: 1rem;
   }
 
+  .footer-contact .icon {
+    font-size: 2.5rem;
+  }
+
   .footer-contact-text p {
-    font-size: 1.2rem; /* Smaller font size on small screens */
+    font-size: 1.2rem;
   }
 
   .footer-menu ul {
-    flex-direction: column; /* Stack menu items vertically */
-    align-items: center; /* Center items */
+    flex-direction: column; /* Stack menu items */
+    align-items: center;
   }
 
   .footer-menu li {
-    margin-left: 0; /* Remove horizontal margin */
-    margin-bottom: 15px; /* Add vertical margin */
+    margin-left: 0;
+    margin-bottom: 10px;
+  }
+
+  .copyright-text {
+    text-align: center;
   }
 }
 
 @media (max-width: 480px) {
   .footer-contact {
-    height: auto;
     gap: 0.8rem;
   }
 
   .footer-contact .icon {
-    font-size: 2rem; /* Smaller icons on mobile */
+    font-size: 2rem;
   }
 
   .footer-contact-text p {
-    font-size: 1rem; /* Even smaller text on mobile */
+    font-size: 1rem;
   }
 
   .footer-menu ul {
@@ -459,9 +487,15 @@ ul {
   }
 
   .footer-menu li {
-    margin-left: 0; /* Remove margin for better spacing */
+    margin-left: 0;
+    margin-bottom: 8px;
+  }
+
+  .copyright-text {
+    text-align: center;
   }
 }
+
 
 /* --------------- 
 country Card 

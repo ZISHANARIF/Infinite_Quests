@@ -67,7 +67,7 @@
         "Name": "Earth's Moon",
         "types": "Natural Satellite",
         "Example": "Moon",
-        "image": "Images/moon.webp"
+        "image": "Images/moon.jpg"
     },
     {
         "id": 11,
@@ -154,14 +154,14 @@
         "image": "Images/Planetary.jpg"
     },
     {
-        "id": 24,
+        "id": 23,
         "Name": "Dark Matter",
         "types": "Matter",
         "Example": "Galaxy rotation",
         "image": "Images/dark_matter.jpg"
     },
     {
-        "id": 25,
+        "id": 24,
         "Name": "Dark Energy",
         "types": "Energy",
         "Example": "Cosmic growth",
