@@ -10,6 +10,7 @@
 
         "DetailsExplaination": [
             "Stars: A Deep Dive in Simple Terms 🌟",
+            "",
             "Stars are giant balls of hot, glowing gas that produce light and heat.",
             " They are the building blocks of the universe, and without them, life on Earth wouldn’t exist!",
             "Let’s explore everything about stars in simple terms.",
@@ -358,7 +359,6 @@
         "DetailsExplaination": [
             "What is Jupiter? 🌟",
             "",
-
         "Jupiter is the largest planet in our solar system! It's a gas giant and is known for its massive size and beautiful storms.",
         "Jupiter is also famous for having many moons and a giant red spot on its surface.",
         "Let’s explore what makes Jupiter so amazing! 🪐",
@@ -604,6 +604,7 @@
         "Diameter": "3,474.8 km",
         "Example": "Apollo 11 landed in 1969, features like Mare Tranquillitatis",
         "DetailsExplaination": [
+            "",
             "🌙 Earth’s Moon – A Love That Shines Forever",
             "",
         "The Moon is not just a celestial body—it is a feeling, a companion, a silent lover watching over Earth. If you love the Moon, you are part of an endless romance, where the sky writes poetry, and the Moon whispers secrets in the night.",
@@ -1226,6 +1227,7 @@
         "Example": "Orion Nebula (M42), Eagle Nebula",
         "DetailsExplaination": [
             "What are Emission Nebulae? 🌌💫",
+            "",
         "Emission nebulae are colorful clouds of gas and dust in space that glow brightly because of the energy coming from young stars.",
         "They are some of the most beautiful objects in the universe! Let’s break it down in simple terms. 😊",
             "",
@@ -1375,7 +1377,7 @@
         "Example": "SN 1987A, Tycho's Supernova",
         "DetailsExplaination": [
             "What are Planetary Nebulae? 🌌💫",
-
+            "",
         "Planetary nebulae are colorful, glowing clouds of gas and dust in space that form when a dying star sheds its outer layers. Despite their name, they have nothing to do with planets! They are a beautiful and important part of a star’s life cycle. Let’s explore these fascinating objects in simple terms! 😊",
             "",
         "1️⃣ What is a Planetary Nebula? 🪐",
@@ -1420,6 +1422,8 @@
         "Example": "3C 273, PKS 0048-097",
         
         "DetailsExplaination": [
+            "What is Dark Matter? 🌌⚡",
+            "",
             "Dark matter is one of the biggest mysteries in the universe! 🌟 It's an invisible substance that doesn't emit light or radiate energy, which is why we can't see it. But, scientists know it exists because of its gravitational effects on visible matter, like stars and galaxies. Let’s explore this fascinating concept in simple terms! 😊",
             "",
         "1️⃣ What is Dark Matter? 🌓",
@@ -1464,7 +1468,8 @@
         "Diameter": "N/A",
         "Example": "Crab Pulsar, PSR B1937+21",
         "DetailsExplaination": [
-            "What is Dark Energy? 🌌⚡",  
+            "What is Dark Energy? 🌌⚡",
+            "",
         "Dark energy is one of the biggest mysteries in the universe! Scientists believe it is an invisible force that is causing the universe to expand faster and faster over time. Even though we can’t see it, dark energy makes up about 68% of the universe! Let’s explore this mysterious force in simple terms. 😊",  
             "",
         "1️⃣ What is Dark Energy? 🌑⚡",  

@@ -21,7 +21,7 @@ export const PlanetDetails = () => {
           <p className='card-description'>ORBIT PERIOD: {planet.OrbitPeriod}</p>
           <p className='card-description'>DIAMETER: {planet.Diameter}</p>
           <p className='card-description'><span>EXAMPLE: </span>{planet.Example}</p>
-          <pre className='card-title'><span>Details: </span>{formattedAns}</pre>
+          <pre className='card-title'><span>Unlocking the Secrets: </span>{formattedAns}</pre>
           
           {/* <pre className= 'card-title'><span>Ans: </span>{formattedAns}</pre> */}
 
