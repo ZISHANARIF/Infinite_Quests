@@ -3,7 +3,7 @@ import React from 'react'
 export const Contact = () => {
 
   const handleFormSubmit = (formData) => {
-    console.log(formData.entries());
+    alert("you response will submit");
   }
 
   return (
