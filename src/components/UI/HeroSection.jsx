@@ -1,8 +1,21 @@
 import React from 'react'
 import { FaArrowRight } from "react-icons/fa";
 import { NavLink } from 'react-router-dom';
+import { useState, useEffect } from 'react';
+
 
 export const HeroSection = () => {
+
+  // const [greeting, setGreeting] = useState("");
+  
+  // useEffect(() => {
+  //   const hour = new Date().getHours();
+  //   if (hour < 12) setGreeting("Good Morning, Explorer!");
+  //   else if (hour < 18) setGreeting("Good Afternoon, Adventurer!");
+  //   else setGreeting("Good Evening, Stargazer!");
+  // }, []);
+  
+
   return (
     <main className='hero-section main'>
     <div className='container grid grid-two-cols'>
@@ -10,7 +23,8 @@ export const HeroSection = () => {
       <div className='hero-content'>
 
         <h1 className='heading-xl'>
-        Venture the Earth, Reveal Infinite Universe.
+          {/* {greeting} */}
+         Venture the Earth, Reveal Infinite Universe.
         </h1>
 
         <p className="paragraph">
@@ -29,7 +43,7 @@ export const HeroSection = () => {
       </div>
 
       <div className='hero-image '>
-        <img src='/Images/new.webp' alt='world beauty' className='banner-image'/>
+        <img loading="lazy" src='/Images/new.webp' alt='world beauty' className='banner-image'/>
       </div>
 
     </div>

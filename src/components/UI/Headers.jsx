@@ -7,9 +7,9 @@ export const Headers = () => {
 
     const [show, setShow] = useState(false)
 
-const handleButtonTog = () =>{
-    return setShow(!show);
-}
+    const handleButtonTog = () =>{
+        return setShow(!show);
+    }
 
   return (
     <header>

@@ -1,6 +1,5 @@
 import React from 'react'
 import { HeroSection } from '../components/UI/HeroSection'
-// import { About } from './About'
 import { ContentMid } from '../components/UI/ContentMid'
 
 export const Home = () => {
@@ -8,7 +7,6 @@ export const Home = () => {
    <>
    <HeroSection/>
    <ContentMid/>
-   {/* <About/> */}
    </>
   )
 }

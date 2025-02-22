@@ -82,6 +82,15 @@ button {
   -o-border-radius: 1.5rem;
   margin-top: 1.6rem;
 }
+.hero-content {
+  animation: fadeIn 1.5s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
 
 /* Layout  */
 
