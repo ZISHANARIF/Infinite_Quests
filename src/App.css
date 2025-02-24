@@ -3,6 +3,16 @@
   padding: 0;
   box-sizing: border-box;
 }
+body {
+  overflow-y: scroll;  /* Enable vertical scrolling */
+  overflow-x: hidden;  /* Disable horizontal scrolling */
+}
+
+/* For webkit browsers (Chrome, Safari, Edge) */
+body::-webkit-scrollbar {
+  width: 0;
+  background: transparent;
+}
 #fav {
   border-radius: 50%;
 }
