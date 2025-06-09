@@ -49,7 +49,7 @@ export const Footers = () => {
                 </li>
                 <li>
                   <NavLink
-                    to="/Images/Zishan_Arif(R).pdf"
+                    to="/Images/Zishan_Resume.pdf"
                     target="_blank"
                   >
                     Resume
